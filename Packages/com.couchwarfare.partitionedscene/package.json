@@ -1,0 +1,10 @@
+{
+  "name": "com.couchwarfare.partitionedscene",
+  "version": "0.0.1",
+  "displayName": "Partitioned Scene",
+  "description": "Partitioned Scene",
+  "author": {
+    "name": "Thiago Hirata",
+    "email": "thiago.hirata@gmail.com"
+  }
+}

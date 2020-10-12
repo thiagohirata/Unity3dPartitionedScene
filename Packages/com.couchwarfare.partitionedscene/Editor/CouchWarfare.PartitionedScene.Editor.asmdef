@@ -1,0 +1,15 @@
+{
+    "name": "CouchWarfare.PartitionedScene.Editor",
+    "references": [
+        "GUID:d24677b011f3d6e4399883eeadba2a87"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
